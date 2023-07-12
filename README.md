@@ -1,2 +1,2 @@
-# dart
+# dART
 Data Art
